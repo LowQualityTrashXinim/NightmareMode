@@ -1,0 +1,13 @@
+"Your worst imagination came into life"
+- Normal enemy receive 2x health ( multiplicative ) and always deal additional 10% percentage damage.
+- Bosses health is increased by 500%, gain 25% damage reduction, deal 25% percentage damage, 
+at 50% health or below increases damage dealt by 100% and bosses can't take more than 1% of their health.
+- Every enemy have 1 extra update build into it resulting in +100% speed and +100% attack speed ( debuff also become more effective against enemy due to the same reason ).
+- During a boss fight in pre hardmode, a portal of demon occasionally opened spawning Demon,
+fire imp and fire bat.
+Defeating Wall of Flesh, the portal is then upgraded to celestial portal spawning random celestial being.
+- Automatically turned your world into Master mode difficulty ( can exist along with FTW )
+- Enemy may spawn in group.
+
+Why would you want to play this ? Well, for once this is what I considered to be impossible if you play this with vanilla setting
+So of course, this mode is meant to played with other sub-mod that I made such as Everlasting Overhaul and Everlasting Synergy series.
