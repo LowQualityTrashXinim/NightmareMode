@@ -70,18 +70,6 @@ internal class NightmareGlobalNPC : GlobalNPC
         entity.life = entity.lifeMax;
 
     }
-    public override void ApplyDifficultyAndPlayerScaling(NPC npc, int numPlayers, float balance, float bossAdjustment)
-    {
-        StatModifier mod = new();
-        mod += 2;
-        npc.damage *= 2;
-        if (npc.boss)
-        {
-            mod += 5;
-        }
-        npc.lifeMax = (int)mod.ApplyTo(npc.lifeMax);
-        npc.life = npc.lifeMax;
-	}
 	public override void ResetEffects(NPC npc)
     {
         //var player = Main.player[npc.target];
